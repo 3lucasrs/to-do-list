@@ -34,13 +34,13 @@ body {
 }
 
 #input {
-  width: 70%;
+  width: auto;
   height: 36px;
   border: none;
   outline: none;
   font-size: 15px;
   color: #fff;
-  background-color: #276089; 
+  background-color: #276089;
   /* border-bottom: 1px solid #0f3652; */
   border-radius: 5px;
   padding: 0 10px;
@@ -146,7 +146,7 @@ ul {
 }
 
 /* FIM LINKS */
- 
+
 @media (max-width: 320px) {
   #input {
     width: 120px;
